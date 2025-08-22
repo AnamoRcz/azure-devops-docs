@@ -8,9 +8,7 @@ metadata:
   titleSuffix: Azure DevOps  
   description: Learn how to start using Azure DevOps to collaborate on code, build and deploy apps, or plan and track work.
   ms.custom: UpdateFrequency3
-  ms.subservice: azure-devops-new-user
-  ms.topic: landing-page 
-  author: chcomley 
+  ms: chcomley 
   ms.author: chcomley 
   ms.date: 09/17/2024 
   ms.update-cycle: 1095-days
